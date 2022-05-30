@@ -1,4 +1,5 @@
-# OverArchievers Bot
+# OverArchievers Bot - PROJECT DISCONTINUED (working on a rewrite for a fully customizable version - will post a link [here] when it becomes public)
+Repository is now in read-only mode.
 ### About:
 A simple open-source bot specifically designed to help managing the [OverArchievers](https://github.com/AKASGaming/OverAchiever) [Discord server](https://discord.gg/bKHCqJaY35).
 
